@@ -2,7 +2,7 @@
 let number = Math.floor(Math.random() * 10);
 
 // Set the number of attempts the user has to 10
-let attempts = 10;
+let attempts = 5;
 
 // Add an event listener to the button with the id "btn"
 // When the button is clicked, call the checkGuess function
